@@ -77,7 +77,8 @@ let userAndu = {
     password: '123',
     color: '#0038ff',
     contacts: [contactBert, contactMaria, contactAndrei],
-    tasks: [task, task2]
+    tasks: [task, task2],
+    
 }
 
 let contactAndu = {
